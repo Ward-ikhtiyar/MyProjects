@@ -1,8 +1,9 @@
+import 'package:SpeedOrder/CartPage.dart';
+import 'package:SpeedOrder/MePage.dart';
+import 'package:SpeedOrder/Products_Stores_Page.dart';
+import 'package:SpeedOrder/main.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_4/HomePage.dart';
-import 'package:flutter_application_4/MePage.dart';
-import 'package:flutter_application_4/main.dart';
-import 'package:flutter_application_4/secondPage.dart';
+
 import 'package:provider/provider.dart';
 
 class HomePage extends StatefulWidget {
